@@ -1,13 +1,15 @@
-[Polski]()
+[Polski](https://github.com/Shrillbug321/Shrillbug321/blob/main/README_PL.md)
 <h1>Hi 👋, I'm Sebastian</h1>
 <h3>I'm from Poland 🇵🇱 </h3>
 <h3>Mainly I'm a frontend and backend developer. My extra interest is a artificial intelligence and graphic design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrillbug321&label=Profile%20views&color=0e75b6&style=flat" alt="shrillbug321" /> </p
 
-- 🔭 I’m currently working on [Farm](https://github.com/Shrillbug321/Farm)
+- 🔭 I’m currently working on [Farm](https://github.com/Shrillbug321/Farm) because "production" version have errors, which version run from IDE has not.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Shrillbug321)
+- 👨‍💻 All of my projects, to which have source code, are available at [GitHub](https://github.com/Shrillbug321)
+
+- 👨‍💻 Screenshots or links to working websites, to which now I hasn't access to code is at [LinkedIn](https://www.linkedin.com/in/sebastian-dreszer-0b0220315/) in Reccomended section or folder at [Google Drive](https://drive.google.com/drive/folders/1SzULoBdIESxL5QpIz7wOtoc8Yjn9WLoD?usp=sharing)
 
 - 📫 How to reach me **SebastianDreszer1999@gmail.com**
 

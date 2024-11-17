@@ -12,8 +12,8 @@ Co-develop desktop application supporting psychological therapies for UoS Instit
 	<li>Debugging features coded by other person</li>
 	<li>Co-work with teams: desktop (2 person) and Unity (2)</li>
 	<li>Participation in meetings, where was show progress for psychologist and collect remarks from him. Next on base remarks, our adjusted application.</li>
+	<li><i>After apprenticeship I continued cooperation, design and implementation module to universal sensors support</i></li>
 </ul>
-After apprenticeship I continued cooperation, design and implementation module to universal sensors support
 
 **Skills**
 <ul>
@@ -88,8 +88,8 @@ P20 _vel_ Strefa Portali, 09.2022 – 11.2022 (3 months)<br>
 	<li>Maintaining code cleanliness </li>
 	<li>Cooperate with team creating back-end</li>
 	<li>Writing documentation to develop systems</li>
+	<li><i>Owing to components developed during apprenticeship (see below) work out these projects was ended week before planned time</i></li>
 </ul>
-Owing to components developed during apprenticeship (see below) work out these projects was ended week before planned time
 
 **Skills**
 <ul>
@@ -112,8 +112,8 @@ P20 _vel_ Strefa Portali _apprenticeship_, 07.2022 – 09.2022 (3 months)<br>
 	<li>Implementation and testing new features</li>
 	<li>Maintaining code cleanliness </li>
 	<li>Cooperate with team creating back-end</li>
+	<li><i>Developed components has been placed in company library</i></li>
 </ul>
-Developed components has been placed in company library
 
 **Skills**
 <ul>

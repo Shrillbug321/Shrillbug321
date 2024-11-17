@@ -12,8 +12,8 @@ Współtworzenie aplikacji desktopowej wspierającej terapie psychologiczne dla 
 	<li>Debugowałem funkcjonalności pisane przez inne osoby</li>
 	<li>Współpracowałem z zespołami: desktopowym (2 osoby) oraz Unity (2)</li>
 	<li>Uczestniczyłem w spotkaniach, podczas których pokazywało się postępy prac psychologowi oraz zbierano uwagi od niego, na podstawie których dostosowywano aplikację.</li>
+	<li><i>Po praktykach kontynuowałem współpracę, projektując i pisząc moduł do uniwersalnej obsługi czujników</i></li>
 </ul>
-Po praktykach kontynuowałem współpracę, projektując i pisząc moduł do uniwersalnej obsługi czujników
 
 **Umiejętności**
 <ul>
@@ -88,8 +88,8 @@ P20 _vel_ Strefa Portali, 09.2022 – 11.2022 (3 miesiące)<br>
 	<li>Dbałem o czystość kodu</li>
 	<li>Współpracowałem z zespołem odpowiedzialnym za back-end</li>
 	<li>Tworzyłem dokumentację opracowywanych systemów</li>
+	<li><i>Dzięki komponentom z praktyk prace nad ankietami i panelem zakończyły się tydzień przed planowanym czasem</i></li>
 </ul>
-Dzięki komponentom z praktyk prace nad ankietami i panelem zakończyły się tydzień przed planowanym czasem
 
 **Umiejętności**
 <ul>
@@ -112,8 +112,8 @@ P20 _vel_ Strefa Portali _praktyki_, 07.2022 – 09.2022 (3 miesiące)<br>
 	<li>Implementowałem i testowałem nowe funkcjonalności</li>
 	<li>Dbałem o czystość kodu</li>
 	<li>Współpracowałem z zespołem odpowiedzialnym za back-end</li>
+	<li><i>Stworzone komponenty zostały umieszczone w firmowej bibliotece</i></li>
 </ul>
-Stworzone komponenty zostały umieszczone w firmowej bibliotece
 
 **Umiejętności**
 <ul>
